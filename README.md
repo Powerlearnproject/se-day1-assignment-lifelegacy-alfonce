@@ -19,7 +19,6 @@ Why It Matters: The Waterfall Model provided a structured, linear approach to so
 Impact: It helped teams organize large projects, though it later faced criticism for its rigidity — paving the way for more iterative methods.
 3. The Emergence of Agile Development (2001)
 Event: The Agile Manifesto
-Why It Matters: Agile development shifted focus to flexibility, collaboration, and continuous delivery. It promotes iterative cycles (sprints), customer feedback, and adaptability to change.
 Impact: Agile became a cornerstone of modern development, accelerating innovation, reducing time-to-market, and enhancing software quality
 
 
@@ -89,7 +88,7 @@ Progress Monitoring: Track project milestones, hold regular stand-ups or check-i
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments (IDEs)
-An IDE is a software application that provides a complete environment for coding, compiling, testing, and debugging software — all in one place.
+-An IDE is a software application that provides a complete environment for coding, compiling, testing, and debugging software — all in one place.
 Key Features:
 Code Editor: Helps you write and format code with syntax highlighting and auto-completion.
 Debugger: Allows you to test and fix bugs directly within the IDE.
@@ -101,7 +100,7 @@ Visual Studio Code (VS Code): Lightweight, customizable, and supports many progr
 JetBrains IntelliJ IDEA: Powerful for Java and web development with deep code analysis.
 PyCharm: Tailored for Python development with advanced debugging and testing features.
 Version Control Systems (VCS)
-A VCS is a tool that tracks changes to your code over time, letting you manage different versions of a project, collaborate with others, and revert to earlier states if something goes wrong.
+-A VCS is a tool that tracks changes to your code over time, letting you manage different versions of a project, collaborate with others, and revert to earlier states if something goes wrong.
 Key Features:
 Version Tracking: Keeps a history of all changes, so you never lose progress.
 Branching & Merging: Allows developers to work on different features or bug fixes simultaneously without interfering with each other’s work.
@@ -142,11 +141,11 @@ Importance: Confirms the software is ready for launch and reduces the chance of 
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering is the practice of crafting and refining the input given to an AI model (like ChatGPT) to guide its responses in the most useful and accurate way possible. It’s all about designing prompts strategically to get the AI to generate the desired output.
+-Prompt engineering is the practice of crafting and refining the input given to an AI model (like ChatGPT) to guide its responses in the most useful and accurate way possible. It’s all about designing prompts strategically to get the AI to generate the desired output.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 1. Vague Prompt:
-Example - "Tell me about websites."
+  "Tell me about websites."
 Problem:
 Too broad — "websites" is a huge topic. The AI might not know whether to explain what websites are, how to build one, or their history.
 2.Improved Prompt:
