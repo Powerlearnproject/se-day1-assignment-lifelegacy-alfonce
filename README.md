@@ -2,10 +2,7 @@ Software Engineering Day 1 Assignment
 
 Part 1: Introduction to Software Engineering
 
-What is Software Engineering?
-
-Software engineering is the systematic application of engineering principles to design, develop, test, and maintain software systems. It involves using structured processes, methodologies, and tools to create high-quality, reliable, and scalable software solutions that meet user needs and business objectives.
-
+What is Software Engineering?This s the systematic approach to designing, developing, testing, deploying, and maintaining software applications. It combines engineering principles with programming practices to build reliable, scalable, and efficient software systems that meet user needs and business requirements.
 Key Milestones in the Evolution of Software Engineering
 
 The Birth of Software Engineering (1968)
